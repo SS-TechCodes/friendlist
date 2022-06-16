@@ -1,0 +1,6 @@
+{
+    "friends": {
+        "getAll": "http://localhost:8888/api/v1/friends",
+        "post": "http://localhost:8888/api/v1/friends"
+    }
+}
